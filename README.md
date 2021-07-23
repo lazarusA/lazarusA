@@ -25,8 +25,8 @@
 </samp>
 - - -
 <p align="left">
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=lazarusA&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,php,css, html">
  <img src ="https://github-readme-stats.vercel.app/api?username=lazarusA&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true">
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=lazarusA&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,php,css, html">
  </p>
  
 <!--
