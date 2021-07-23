@@ -12,7 +12,7 @@
  
 💬 Ask me about Julia, [Beautiful Makie](https://lazarusa.github.io/BeautifulMakie/), ML, physics. 
  
-🧠 I do research on machine learning applied to physics problems. Nowadays, time series from climate variables. 
+🧠 I do research on machine learning applied to physics problems.
  
  ⚡ ⚡ ⚡ 
 </samp>
