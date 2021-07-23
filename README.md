@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Lazaro Alonso Silva
 <samp>
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarusA&label=Profile%20views&color=0e75b6&style=flat" alt="lazarusA" /> </p> -->
-
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=lazarusA&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,php,css">
  
 <p align="left"> <a href="https://twitter.com/LazarusAlon" target="blank"><img src="https://img.shields.io/twitter/follow/LazarusAlon?logo=twitter&style=for-the-badge" alt="LazarusAlon" /></a> </p>
 
@@ -18,7 +16,9 @@
  
  ⚡ ⚡ ⚡ 
 </samp>
-
+- - -
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=lazarusA&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,php,css, html">
+ 
 - - -
 <p align="left">
   <img src ="https://github-readme-stats.vercel.app/api?username=lazarusA&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true">
