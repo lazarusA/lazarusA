@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=FFC300) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=FFC300)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim%20Code&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=FFC300)
 <samp>
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarusA&label=Profile%20views&color=0e75b6&style=flat" alt="lazarusA" /> </p> -->
