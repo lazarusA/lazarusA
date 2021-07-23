@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Lazaro Alonso Silva
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=FFC300)
+
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=FFC300) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=FFC300)
