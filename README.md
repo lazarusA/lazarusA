@@ -1,4 +1,20 @@
 ### Hi there 👋, I'm Lazaro Alonso Silva
+<samp>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarusA&label=Profile%20views&color=0e75b6&style=flat" alt="lazarusA" /> </p>
+
+<p align="left"> <a href="https://twitter.com/LazarusAlon_" target="blank"><img src="https://img.shields.io/twitter/follow/LazarusAlon_?logo=twitter&style=for-the-badge" alt="LazarusAlon_" /></a> </p>
+  
+📚 I'm a Researcher at the [Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/bgi/index.php/Main/HomePage), Jena Germany
+📫 How to reach me: lazarus.alon@gmail.com
+💬 Ask me about Julia, [Makie plots](https://lazarusa.github.io/BeautifulMakie/), ML, physics. 
+🧠 I do research on machine learning applied to physics problems. Nowadays, time series from climate variables. 
+  
+</samp>
+<center>
+  
+[![Lazaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarusA&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=lazarusA&count_private=true&show_icons=true)
+
+</center>
 
 <!--
 **lazarusA/lazarusA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
