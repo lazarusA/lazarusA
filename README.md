@@ -1,12 +1,7 @@
 ### Hi there 👋
 <strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io/Webpage/index.html">Homepage</a> / <a href="https://twitter.com/LazarusAlon">Twitter</a>  / <a href="https://github.com/lazarusA">GitHub</a> /  <a href="https://lazarusa.github.io/BeautifulMakie/">Beautiful Makie</a> </pre></p>
 
-<p align="left">
- <img src ="https://metrics.lecoq.io/lazarusA?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin">
- 
- <img src ="https://metrics.lecoq.io/lazarusA?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FBerlin">
- 
- </p>
+![Metrics](https://metrics.lecoq.io/lazarusA?template=classic&repositories.forks=true&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FBerlin&config.display=columns)
 
 - - -
 <p align="left">
