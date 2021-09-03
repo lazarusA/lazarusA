@@ -1,5 +1,6 @@
 ### Hi there 👋
-<strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io/Webpage/index.html">Homepage</a> / <a href="https://twitter.com/LazarusAlon">Twitter</a>  / <a href="https://github.com/lazarusA">GitHub</a> /  <a href="https://lazarusa.github.io/BeautifulMakie/">Beautiful Makie</a> </pre></p>
+<strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io/Webpage/index.html">Homepage</a> / <a href="https://twitter.com/LazarusAlon">Twitter</a>  / <a href="https://github.com/lazarusA">GitHub</a> /  <a href="https://lazarusa.github.io/BeautifulMakie/">Beautiful Makie</a> / 
+<a href = "https://lazarusa.github.io/gnuplot-examples/"> Gnuplot.jl examples </a> </pre></p>
 
 ![Metrics](https://metrics.lecoq.io/lazarusA?template=classic&repositories.forks=true&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FBerlin&config.display=large)
 
