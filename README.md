@@ -5,11 +5,6 @@
 ![Metrics](https://metrics.lecoq.io/lazarusA?template=classic&repositories.forks=true&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FBerlin&config.display=large)
 
 - - -
-<p align="left">
- <img src ="https://github-readme-stats.vercel.app/api?username=lazarusA&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true">
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=lazarusA&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,php,css, html">
-
- </p>
 
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFC300)
