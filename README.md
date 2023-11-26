@@ -4,6 +4,8 @@
 
 ![Metrics](https://metrics.lecoq.io/lazarusA?template=classic&repositories.forks=true&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FBerlin&config.display=large)
 
+[![Lazaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarusA&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=lazarusA&count_private=true&show_icons=true)
+
 I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany). I’m investigating earth system models, coupling physical process based models with neural networks. The so called **Hybrid Modelling** approaches. I’m also interested in open source, reproducible research and scientific visualization. And when I've time, I hike, eat and dance (more jumping :D).<br/>
 
  ⚡ ⚡ ⚡  
