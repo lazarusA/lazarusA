@@ -2,7 +2,7 @@
 <strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io/Webpage/index.html">Homepage</a> / <a href="https://twitter.com/LazarusAlon">Twitter</a> / <a href="https://github.com/lazarusA">GitHub</a> / <a href="https://lazarusa.github.io/BeautifulMakie/">Beautiful Makie</a> / 
 <a href = "https://lazarusa.github.io/gnuplot-examples/"> Gnuplot.jl examples </a> </pre></p>
 
-I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany). I’m investigating earth system models, coupling physical process based models with neural networks. The so called **Hybrid Modelling** approache. I’m also interested in open source, reproducible research and scientific visualization. And when I've time, I hike, eat and dance (more like jumping :D).<br/>
+I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany). I’m investigating earth system models, coupling physical process based models with neural networks. The so called **Hybrid Modelling** approach. I’m also interested in open source, reproducible research and scientific visualization. And when I've time, I hike, eat and dance (more like jumping :D).<br/>
 
  ⚡ ⚡ ⚡  
   
