@@ -22,19 +22,6 @@ I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=FFC300)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusA&&hide=jupyter%20notebook,html&size_weight=0.5&count_weight=0.5&layout=compact&theme=github-compact)
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=lazarusA&theme=github-compact&line=FF4500&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&title_font_size=32&font_size=24&area_color=1E90FF80" align="right" alt="Activity Graph">
-
-## Test
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1 1 300px; max-width: 100%; margin-bottom: 1rem;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusA&&hide=jupyter%20notebook,html&size_weight=0.5&count_weight=0.5&layout=compact&theme=github-compact" alt="Top Langs" style="width: 100%;" />
-  </div>
-  <div style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazarusA&theme=github-compact&line=FF4500&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&title_font_size=32&font_size=24&area_color=1E90FF80" alt="Activity Graph" style="width: 100%;" />
-  </div>
-</div>
-
 
 <!--
  <samp>
