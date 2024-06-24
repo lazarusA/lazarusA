@@ -21,7 +21,7 @@ I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=FFC300)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusA&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)](https://github.com/lazarusA/) </br> </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusA&&hide=jupyter_notebooks,html&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)] </br> </br>
 
 <!--
  <samp>
