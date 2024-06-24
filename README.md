@@ -22,9 +22,7 @@ I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=FFC300)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusA&&hide=jupyter%20notebook,html&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=lazarusA&theme=github-compact" align="right" style="padding-left:10px;" alt="Activity Graph">
-
-</br> </br>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=lazarusA&theme=github-compact&line=1E90FF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&title_font_size=24&font_size=14" align="right" style="padding-left:10px;" alt="Activity Graph">
 
 <!--
  <samp>
