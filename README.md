@@ -1,6 +1,5 @@
 <p><pre align="center">
-<strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io">Homepage</a> / <a href="https://twitter.com/LazarusAlon">Twitter</a> / <a href="https://github.com/lazarusA">GitHub</a> / <a href="https://lazarusa.github.io/BeautifulMakie/">Beautiful Makie</a> / 
-<a href = "https://lazarusa.github.io/gnuplot-examples/"> Gnuplot.jl examples </a> </pre></p>
+<strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io">Homepage</a> / <a href = "https://browzarr.io/"> browzarr.io </a> / <a href="https://github.com/EarthyScience/EasyHybrid.jl">EasyHybrid.jl</a> / <a href="https://lazarusa.github.io/BeautifulMakie/">Beautiful Makie</a> </pre></p>
 
 I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany). 🧠 I do a bit of research on machine learning in combination with process-based models. I’m also interested in open source, reproducible research and scientific visualization. And when I've time, I hike, eat and dance!<br/>
 
@@ -8,7 +7,7 @@ I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany
   
 📫 How to reach me: lazarus.alon@gmail.com
  
-💬 Ask me about [browzarr.io](https://browzarr.io/), [EasyHybrid.jl](https://github.com/EarthyScience/EasyHybrid.jl), [Beautiful Makie](https://lazarusa.github.io/BeautifulMakie/), physics, chaos! 
+💬 Ask me about chaos!
 
  ⚡ ⚡ ⚡ 
 - - -
