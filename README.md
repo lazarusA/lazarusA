@@ -13,14 +13,15 @@ I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany
 - - -
 
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=FFC300)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFC300)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=FFC300)
-![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=FFC300) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=FFC300) 
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=FFC300)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusA&&hide=jupyter%20notebook,html&size_weight=0.5&count_weight=0.5&layout=compact&theme=github-compact)
+![Lazaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazarusA&show_icons=true&theme=dracula)
 
 <!--
  <samp>
