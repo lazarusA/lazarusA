@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io">Homepage</a> / <a href = "https://browzarr.io/"> browzarr.io </a> / <a href="https://github.com/EarthyScience/EasyHybrid.jl">EasyHybrid.jl</a> / <a href="https://lazarusa.github.io/BeautifulMakie/">Beautiful Makie</a> </pre></p>
+<strong>Lazaro Alonso /</strong> <a href="https://lazarusa.github.io">Homepage</a> / <a href="https://lazarusa.github.io/octant/">OCTANT</a> / <a href = "https://browzarr.io/"> browzarr.io </a> / <a href="https://github.com/EarthyScience/EasyHybrid.jl">EasyHybrid.jl</a> </pre></p>
 
 I’m a scientist at the Max Planck Institute for Biogeochemistry (Jena, Germany). 🧠 I do a bit of research on machine learning in combination with process-based models. I’m also interested in open source, reproducible research and scientific visualization. And when I've time, I hike, eat and dance!<br/>
 
